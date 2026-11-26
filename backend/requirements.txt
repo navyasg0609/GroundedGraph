@@ -1,0 +1,15 @@
+fastapi[all]
+uvicorn
+pydantic-settings
+sqlalchemy[asyncio]
+asyncpg
+alembic
+anthropic
+groq
+bcrypt
+itsdangerous
+rapidfuzz
+sentence-transformers
+numpy
+pytest
+pytest-asyncio
